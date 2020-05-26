@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ed7154ae-3298-48ca-9a2d-568f3091fc35/deploy-status)](https://app.netlify.com/sites/reactnd-myreads/deploys)
-[![Edit reactnd-project-myreads](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/james-priest/reactnd-project-myreads/tree/master/)
 
 # MyReads
 
@@ -13,9 +11,7 @@ It also allow you to search for books based on title and author.
 
 This app is the first of three projects required for [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
-You can read a detailed walk-through of how this app was constructed in  [MyReads Code Notes](https://james-priest.github.io/reactnd-project-myreads/).
-
-- **Live Demo:** [https://reactnd-myreads.netlify.com/](https://reactnd-myreads.netlify.com/)
+- **Live Demo:** [https://codesandbox.io/s/reactnd-project-myreads-6et42?file=/src/App.js](https://codesandbox.io/s/reactnd-project-myreads-6et42?file=/src/App.js)
 
 You can see [screenshots](#screenshots) below.
 
